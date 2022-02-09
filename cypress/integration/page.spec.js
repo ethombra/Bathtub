@@ -92,7 +92,7 @@ describe('Bathtubs product list automation', () => {
     cy.get('.is-opened .menu-item:nth-child(6) .menu-item:nth-child(6)').contains(therapiesMenu.chromatherapy)
   })
 
-  it('Validate the filter selection', () => {
+  it('Validate the filter selection for Product Series', () => {
     cy.findAllByText('Bathtubs').should('exist');
     //assering when all of the Product Series are selected there are total of 253 items available
     cy.get('[id="productlookups.series.internal_valueProfessional"]').should('exist');
