@@ -3,6 +3,7 @@
 ### Local development
 
 First, you will need to clone this repo, and then install the prerequisite node modules.
+
 To Install cypress : `npm install cypress --save-dev`
 
 #### To run these cypress tests locally
