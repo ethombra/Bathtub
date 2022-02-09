@@ -1,0 +1,23 @@
+{
+  "name": "bathtub",
+  "version": "0.0.1",
+  "description": "## Table of Contents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethombra/bathtub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ethombra/bathtub/issues"
+  },
+  "homepage": "https://github.com/ethombra/bathtub#readme",
+  "devDependencies": {
+    "@testing-library/cypress": "^8.0.2",
+    "cypress": "^9.4.1"
+  }
+}

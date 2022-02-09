@@ -1,0 +1,44 @@
+{
+    "baseUrl": "https://maax.ca/bathtubs/all-products",
+    "env": {
+        "products": {
+            "categories": "Categories",
+            "innovations": "Innovations",
+            "productSeries": "Product Series",
+            "therapies": "Therapies"
+        },
+        "categories": {
+            "bathtubs": "Bathtubs",
+            "bathSolutions": "Bath & Shower Solutions",
+            "showers": "Showers",
+            "showerDoors": "Shower Doors",
+            "showerbase": "Shower Bases",
+            "tubShowers": "Tub Showers",
+            "wallSurrounds": "Walls & Surrounds",
+            "accessibleCompliance": "Accessible & Code Compliant",
+            "medicineCabinets": "Medicine Cabinets",
+            "sinks": "Sinks"
+        },
+        "innovations": {
+            "utile": "Utile",
+            "moduleR": "ModulR",
+            "agingInPlace": "Aging in Place",
+            "drain": "F2 Drain",
+            "acrylx": "AcrylX",
+            "freeStanding": "NEW 2-Piece Freestanding Bathtubs"
+        },
+        "productSeries": {
+            "maax": "MAAX Series",
+            "collection": "Collection Series",
+            "professional": "Professional Series",
+            "retail": "Retail Series"
+        },
+        "therapies": {
+            "airMassage": "Air Massage",
+            "waterMassage": "Water Massage",
+            "combinedMassage": "Combined Massage",
+            "chromatherapy": "Chromatherapy"
+        },
+        "wishListURL": "https://maax.ca/wish-list"
+    }
+}
